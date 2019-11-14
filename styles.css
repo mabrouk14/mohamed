@@ -2,11 +2,13 @@
 {width:600px;
 border:5px; 
 padding:5px}
-h1 {width:1200px;
+h1 {width:1300px;
 	border:5px solid black;
 	text-align:center;
 	padding:5px;
-color:blue}
+color:blue;
+	background_color:grey
+}
 img {width:200px;
 	border:5px solid green;
 	padding:5px}
